@@ -29,9 +29,7 @@ const Home = () => {
         <div className="container mx-auto flex h-16 items-center justify-between px-4">
           <div className="flex items-center gap-2">
             <div className="h-8 w-8 rounded-full bg-gradient-to-r from-green-600 to-blue-600"></div>
-            <span className="text-xl font-bold text-gray-900">
-              GP Energy, Inc.
-            </span>
+            <span className="text-xl font-bold text-gray-900">GP Energy</span>
           </div>
           <nav className="hidden md:flex items-center gap-8">
             <a href="#solutions" className="text-gray-600 hover:text-gray-900">
@@ -572,9 +570,7 @@ const Home = () => {
             <div className="space-y-4">
               <div className="flex items-center gap-2">
                 <div className="h-8 w-8 rounded-full bg-gradient-to-r from-green-600 to-blue-600"></div>
-                <span className="text-xl font-bold">
-                  WasteToEnergy Solutions
-                </span>
+                <span className="text-xl font-bold">GP Energy</span>
               </div>
               <p className="text-gray-400">
                 Leading provider of advanced waste-to-energy technologies for a
@@ -619,7 +615,7 @@ const Home = () => {
           </div>
           <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
             <p>
-              &copy; 2024 WasteToEnergy Solutions. All rights reserved. |{" "}
+              &copy; 2024 GP Energy, Inc.. All rights reserved. |{" "}
               <a href="#" className="hover:text-white">
                 Privacy Policy
               </a>{" "}
